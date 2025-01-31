@@ -26,9 +26,11 @@ Analyse and visualise stocks data to gain insights into financial data. Manipula
 - and a total volume of 8,683,400 shares of Amazon stock were traded on that day.
 
 # Visualisation
-![image alt](https://github.com/aafreenmo/Financial-Data-Analysis/blob/96ff366fc77a5bc37eb06b730d02ff0dabb07764/Pictures/Screenshot%20(11).png)
-![image alt](https://github.com/aafreenmo/Financial-Data-Analysis/blob/96ff366fc77a5bc37eb06b730d02ff0dabb07764/Pictures/Screenshot%20(11).png)
-![image alt](https://github.com/aafreenmo/Financial-Data-Analysis/blob/96ff366fc77a5bc37eb06b730d02ff0dabb07764/Pictures/Screenshot%20(11).png)
+![image alt](https://github.com/aafreenmo/Stock-Prices-Analysis/blob/ffc5602b1100d57d91d6ffbdc64aff75ff22de9c/Pictures/BarPlot.png)
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
 
 
 **Here are the overall concepts/skills learnt :**
