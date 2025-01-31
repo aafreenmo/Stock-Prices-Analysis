@@ -29,7 +29,7 @@ Analyse and visualise stocks data to gain insights into financial data. Manipula
 ![image alt](https://github.com/aafreenmo/Stock-Prices-Analysis/blob/ffc5602b1100d57d91d6ffbdc64aff75ff22de9c/Pictures/BarPlot.png)
 ![image alt](https://github.com/aafreenmo/Stock-Prices-Analysis/blob/e8a93708fa3396fdc1a8a91017761ce7d30fc815/Pictures/HeatMap.png)
 ![image alt](https://github.com/aafreenmo/Stock-Prices-Analysis/blob/b943492ae7b63d76e79de251c832437ad130723d/Pictures/LinePlot.png)
-![image alt]()
+![image alt](https://github.com/aafreenmo/Stock-Prices-Analysis/blob/4ddc7dc1af200a25227df635e634d3f7743a4824/Pictures/ScatterPlot.png)
 ![image alt]()
 
 
